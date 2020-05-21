@@ -26,6 +26,11 @@ public class trste {
         data[4] = "";
 
         update("aluno", field, 5, data, "id = " + 1);
+        update("aluno", field, 5, data, "id = " + 1);
+        
+        ///renato junior teste
+        
+        
             
 	}
 
